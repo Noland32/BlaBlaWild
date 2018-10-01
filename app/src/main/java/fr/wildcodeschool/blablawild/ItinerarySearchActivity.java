@@ -55,7 +55,6 @@ public class ItinerarySearchActivity extends AppCompatActivity {
 
 
             final Calendar myCalendar = Calendar.getInstance();
-
             final EditText editDate = findViewById(R.id.Date);
             final DatePickerDialog.OnDateSetListener date = new DatePickerDialog.OnDateSetListener() {
 

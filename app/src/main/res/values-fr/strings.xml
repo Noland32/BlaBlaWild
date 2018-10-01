@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BlaBlaWild</string>
+    <string name="action_settings">parametres</string>
+    <string name="search_an_itinerary">recherche itineraire</string>
+    <string name="search_text">recherche</string>
+    <string name="departure">Depart</string>
+    <string name="destination">Destination</string>
+    <string name="name">Nom</string>
+    <string name="date">Dates</string>
+    <string name="_01_01_1970">01/01/1970</string>
+    <string name="search">RECHERCHE</string>
+    <string name="dateHeure">31/12/1970 03:30 PM</string>
+    <string name="firstname">Prenom</string>
+</resources>
